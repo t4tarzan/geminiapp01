@@ -1,0 +1,7 @@
+{
+  "name": "AI Learning Companion",
+  "description": "An interactive dashboard where students can select educational videos and use a voice-enabled AI assistant to ask questions in real-time. The assistant provides context-aware answers based on the video's content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
